@@ -2224,7 +2224,7 @@ const ns = k.forwardRef((r, e) => {
           children: n.jsx("img", {
             id: "home-button",
             onClick: i,
-            src: "\\assets\\images\\home_button.png",
+            src: "\\TESTLIVE\\assets\\images\\home_button.png",
             alt: "home-button",
           }),
         }),
@@ -2240,7 +2240,7 @@ const ns = k.forwardRef((r, e) => {
               children: [
                 n.jsx("img", {
                   id: "card",
-                  src: "\\assets\\images\\lobby_label_background.png",
+                  src: "\\TESTLIVE\\assets\\images\\lobby_label_background.png",
                   alt: "card",
                 }),
                 n.jsx("h1", { children: "Cash Games" }),
@@ -2260,7 +2260,7 @@ const ns = k.forwardRef((r, e) => {
               children: [
                 n.jsx("img", {
                   id: "card",
-                  src: "\\assets\\images\\lobby_label_background.png",
+                  src: "\\TESTLIVE\\assets\\images\\lobby_label_background.png",
                   alt: "card",
                 }),
                 n.jsx("h1", { children: "Sit-n-Go" }),
@@ -2277,7 +2277,7 @@ const ns = k.forwardRef((r, e) => {
               children: [
                 n.jsx("img", {
                   id: "card",
-                  src: "\\assets\\images\\lobby_label_background.png",
+                  src: "\\TESTLIVE\\assets\\images\\lobby_label_background.png",
                   alt: "card",
                 }),
                 n.jsx("h1", { children: "Private Games" }),
@@ -2296,7 +2296,7 @@ const ns = k.forwardRef((r, e) => {
                   children: [
                     n.jsx("img", {
                       id: "card",
-                      src: "\\assets\\images\\lobby_label_background_small.png",
+                      src: "\\TESTLIVE\\assets\\images\\lobby_label_background_small.png",
                       alt: "card",
                     }),
                     n.jsx("h1", { children: "Shop" }),
@@ -2312,7 +2312,7 @@ const ns = k.forwardRef((r, e) => {
                   children: [
                     n.jsx("img", {
                       id: "card",
-                      src: "\\assets\\images\\lobby_label_background_small.png",
+                      src: "\\TESTLIVE\\assets\\images\\lobby_label_background_small.png",
                       alt: "card",
                     }),
                     n.jsx("h1", { children: "Rankings" }),
@@ -2450,7 +2450,7 @@ k.forwardRef((r, e) => {
     ref: t,
     children: n.jsx("img", {
       id: "background-image",
-      src: "\\assets\\images\\loading_background.png",
+      src: "\\TESTLIVE\\assets\\images\\loading_background.png",
       alt: "Loading_icon",
     }),
   });
