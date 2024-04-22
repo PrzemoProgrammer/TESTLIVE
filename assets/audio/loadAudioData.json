@@ -19,6 +19,10 @@
         "path": "player",
         "key": "player_win"
       },
+      "playerWin": {
+        "path": "player",
+        "key": "player_join"
+      },
       "slideCard": {
         "path": "card",
         "key": "slide_card"
