@@ -39,6 +39,14 @@
         "path": "game/signs",
         "key": "winner_sign"
       },
+      "playerBigBlindSign": {
+        "path": "game/signs",
+        "key": "big_blind_sign"
+      },
+      "playerSmallBlindSign": {
+        "path": "game/signs",
+        "key": "small_blind_sign"
+      },
     "gameTable": {
       "path": "game/tables",
       "key": "table"
